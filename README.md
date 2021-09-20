@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About Me 🚀
+About Me 🚀<br>
 🎓 I’m pursuing my Bachelors in Information Science & Engineering.
 <!-- 👨‍💻 I am passionate about Web Dev, flutter & I enjoy learning new things. -->
