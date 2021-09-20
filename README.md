@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">,I'm vivek!
 
 <!--
 **Iamviveksinghal/Iamviveksinghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About Me 🚀
+🎓 I’m pursuing my Bachelors in Information Science & Engineering.
+<!-- 👨‍💻 I am passionate about Web Dev, flutter & I enjoy learning new things. -->
