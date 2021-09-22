@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About Me 🚀<br>
-🎓 I’m pursuing my Bachelors in Information Science & Engineering.
-✨ I am currently looking for opportunities to expand my knowledge and experience.
-🌱 I'm passionate about full stack development and learning new things!
+🎓 I’m pursuing my Bachelors in Information Science & Engineering.<br>
+✨ I am currently looking for opportunities to expand my knowledge and experience.<br>
+🌱 I'm passionate about full stack development and learning new things!.<br>
 
 <h1>join with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px" style="max-width: 100%;">
 <a href="https://www.linkedin.com/notifications/"></h1>
