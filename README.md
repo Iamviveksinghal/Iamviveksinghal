@@ -36,4 +36,4 @@ About Me 🚀<br>
 
 <!-- 👨‍💻 I am passionate about Web Dev, flutter & I enjoy learning new things. -->
 
-<img src="https://camo.githubusercontent.com/3065fb76a2db00b0e808477d8447ca67059d6470442c76aab6bf413bcbc3c6c8/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6b756e616c2d6b757368776168612e6b756e616c2d6b75736877616861" alt="visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=Iamviveksinghal.Iamviveksinghal" style="max-width: 100%;">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Iamviveksinghal.Iamviveksinghal">
