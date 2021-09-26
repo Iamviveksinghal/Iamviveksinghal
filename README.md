@@ -26,6 +26,7 @@ About Me 🚀<br>
   <a href = "mailto:viveksinghal746@gmail.com">
 <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
 </a>
+
 <a href = "https://twitter.com/Viveksi2023">
   <img src="https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
 </a>
@@ -34,3 +35,5 @@ About Me 🚀<br>
   </a>
 
 <!-- 👨‍💻 I am passionate about Web Dev, flutter & I enjoy learning new things. -->
+
+<img src="https://camo.githubusercontent.com/3065fb76a2db00b0e808477d8447ca67059d6470442c76aab6bf413bcbc3c6c8/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6b756e616c2d6b757368776168612e6b756e616c2d6b75736877616861" alt="visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=Iamviveksinghal.Iamviveksinghal" style="max-width: 100%;">
