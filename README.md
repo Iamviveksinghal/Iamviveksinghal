@@ -1,4 +1,4 @@
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;"> 
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="3px" style="max-width: 50%;"> 
 
 <!--
 **Iamviveksinghal/Iamviveksinghal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
